@@ -1,6 +1,4 @@
-- 👋 Hi, I’m David Correia.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C programming language at 42 Porto.
+
 - 📫 davidmachado98@hotmail.com
 
 <!---
